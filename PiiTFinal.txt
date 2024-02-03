@@ -1,0 +1,5 @@
+#Create GitHub Public Repo
+#Configure Git on local machine
+#Clone GitHub Repo onto Git on local Machine
+#Create PiiTFinal.txt file
+#Push the file back into GitHub Repo
